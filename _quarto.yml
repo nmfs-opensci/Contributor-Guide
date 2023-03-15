@@ -3,9 +3,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  title: "NMFS Open Sci Contributor Guide" 
+  site-url: "https://nmfs-opensci.github.io/Contributor-Guide" 
+  repo-url: "https://github.com/nmfs-opensci/Contributor-Guide"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -33,18 +33,13 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: content/add-content.qmd
-        text: Add content
-      - href: content/customizing.qmd
-        text: Customizing
-      - href: content/rendering.qmd
-        text: Rendering
+      - href: content/coc.qmd
+        text: Code of Conduct
+      - href: content/contributing.qmd
+        text: Contributing
+      - href: content/maintain.qmd
+        text: Maintenance
       - href: content/rmarkdown.Rmd
-        text: R Markdown files
-      - href: content/code.qmd
-        text: Code in your files
-      - href: content/acknowledgements.qmd
-        text: Acknowledgements
 
 format:
   html:

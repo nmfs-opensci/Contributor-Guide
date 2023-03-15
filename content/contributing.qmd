@@ -1,0 +1,32 @@
+---
+title: Contributing
+---
+
+## Ways to contribute
+
+For public repositories, anyone can contribute issues and discussions (if enabled). Public repositories can also be forked and a pull-request submitted.
+
+Only NOAA staff (with current NOAA email) can be an owner of a repository on nmfs-opensci or be a contributor with direct push permissions. Non-NOAA GitHub users can be added as contributors to public and private repositories, but with review turned on (i.e. no direct push access).
+
+## NOAA users
+
+NOAA staff who wish to contribute to nmfs-opensci
+
+* need to have 2FA turned on
+* should review the NMFS GitHub Checklist which outlines the types of material that are not allowed on GitHub
+
+Then contact the nmfs-opensci admins to discuss the repository you would like to create and manage on nmfs-opensci.
+
+## Disclaimers and licenses
+
+See the [template repo](https://github.com/nmfs-opensci/NOAA-blank) for the standard disclaimers to include on repositories. See the [NMFS GitHub Guidelines](https://nmfs-opensci.github.io/GitHub-Guide/#github-repository-components) section on Readme, disclaimers and licenses. All repositories created on nmfs-opensci will also have the Code of Conduct added to the repository; this happens automatically.
+
+## NOAA branding
+
+The nmfs-opensci GitHub organization is not intended for official NOAA communications and NOAA logos should not generally be used on repositories. 
+
+
+
+
+
+

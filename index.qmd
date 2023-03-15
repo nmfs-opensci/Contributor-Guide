@@ -1,22 +1,22 @@
 ---
-title: "NOAA quarto simple with R"
-subtitle: "A simple Quarto webpage with a book layout"
+title: "NMFS Open Sci Contributor Guide"
+subtitle: "for contribution to the GitHub organization"
 page-layout: full
 ---
 
-This is a template for a simple Quarto website that looks like a "book". This is a common format for documentation. It includes a GitHub Action that will build the website automatically when you make changes to the files. The NOAA palette and fonts has been added to `theme.scss`. The webpage will be on the `gh-pages` branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch. 
+The NMFS Open Science GitHub organization (nmfs-opensci) contains repositories and content related to supporting Open Science activities at NOAA Fisheries. The types of repositories it contains include
 
-The GitHub Action installs R so you can have R code in your qmd or Rmd files. Note, you do not need to make changes to your Rmd files unless your need Quarto features like cross-references.
+* Repositories for Open Science community groups such as user groups. An example is the NMFS R User Group repository and homepage.
+* Repositories for governance groups for Open Science and collaborations platforms.
+* Repositories for Open Science or training webinar series
+* Template repositories that NOAA Fisheries GitHub users and organizations. For example: NMFS specific packages, Quarto websites or books, blank repositories with disclaimers and licenses.
+* Repositories related to NMFS Open Science talks and workshops
 
-## GitHub Set-up
 
-* Click the green "use template" button to make a repository with this content.  Make sure to make your repo public (since GitHub Pages doesn't work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch).
-<img width="637" alt="image" src="https://user-images.githubusercontent.com/2545978/197051535-c43c62de-17e8-40bf-a536-3eea8db250c4.png">
+## Contacts
 
-* Turn on GitHub Pages under Settings > Pages . You will set pages to be made from the gh-pages branch and root directory.
-<img width="540" alt="image" src="https://user-images.githubusercontent.com/2545978/196808262-3d2262be-b9b5-4897-bba5-fc2f056dd335.png">
+The admins for NMFS Open Science are 
 
-* Turn on GitHub Actions under Settings > Actions > General
-<img width="719" alt="image" src="https://user-images.githubusercontent.com/2545978/196808404-0c075fcf-db03-4516-88dd-3143b9fca475.png">
-
-* Edit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the  Settings > Pages page to find the url.
+* [Eli Holmes](https://github.com/eeholmes)
+* [Kathryn Doering](https://github.com/k-doering-NOAA)
+* [Josh London](https://github.com/jmlondon)

@@ -1,0 +1,22 @@
+---
+title: Maintenance and Archiving
+---
+
+## GitHub Pages
+
+You will need to turn on GitHub Pages if desired using Settings > Pages.  See the [NMFS R UG repo](https://github.com/nmfs-opensci/NMFS-R-UG) of a Distill website with
+a GitHub Action that builds the page automatically. See the [Resource Book](https://github.com/nmfs-opensci/ResourceBook) as an example of a Quarto website with a GitHub Action to build the page.
+
+## Issues and Discussion
+
+Repository owners are welcome to use these features. However if you do not need them, you might want to turn them off. The nmfs-admins will not be monitoring issues or discussions on repositories.
+
+## Back-ups
+
+The nmfs-opensci admins do not provide back-ups of content and cannot guarantee the content on the GitHub organization will persist.
+Repository owners should back-up content outside of the nmfs-opensci GitHub organization.
+
+## Archiving
+
+The nmfs-opensci admins reserve the right to archive repository content that is no longer in use or abandoned.
+
