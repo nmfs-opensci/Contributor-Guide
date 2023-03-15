@@ -18,5 +18,5 @@ Repository owners should back-up content outside of the nmfs-opensci GitHub orga
 
 ## Archiving
 
-The nmfs-opensci admins reserve the right to archive repository content that is no longer in use or abandoned.
+The nmfs-opensci admins reserve the right to archive repository content that is no longer in use or that is abandoned. The admins may also re-organize content that was created for teaching, talks, or workshops.
 
