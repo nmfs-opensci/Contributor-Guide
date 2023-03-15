@@ -1,44 +1,72 @@
-[![](https://img.shields.io/badge/Open%20In-RStudio%20Cloud-green)](https://rstudio.cloud/content/4771757) *Try without installing anything. Make sure to click the Make a Copy button or you will lose all your changes.*
- 
-# NOAA quarto simple website with R in qmd or Rmd files
+# NMFS Open Sci Contributor Guide"
 
-This is a template for [a simple Quarto website](https://nmfs-opensci.github.io/NOAA-quarto-simple/) (`type: website`). It looks like a html book (`type: book`) but unlike the book type it only has html format and you will not have the download options. `type: website` is a common format for documentation. 
+The NMFS Open Science GitHub organization (nmfs-opensci) contains repositories and content related to supporting Open Science activities at NOAA Fisheries. The types of repositories it contains include
 
-The repo includes a GitHub Action that will build the website automatically when you make changes to the files. The webpage will use the `gh-pages` branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch. 
+* Repositories for Open Science community groups such as user groups. An example is the NMFS R User Group repository and homepage.
+* Repositories for governance groups for Open Science and collaborations platforms.
+* Repositories for Open Science or training webinar series
+* Template repositories that NOAA Fisheries GitHub users and organizations. For example: NMFS specific packages, Quarto websites or books, blank repositories with disclaimers and licenses.
+* Repositories related to NMFS Open Science talks and workshops
 
-**Warning:** Check that the settings will allow the GitHub Action to run. See the instructions below under "GitHub Set-up".
+## Contacts
 
-**Note:** The GitHub Action installs R so you can render qmd files with R code. You will need to edit to install Python or Julia if your qmd uses those instead. If you have substantial computations, you don't want to be re-running all the computations for files that didn't change. Read about the [freeze option](https://quarto.org/docs/publishing/ci.html) for this situation. R users with complex reports with dependencies (so qmd B depends on qmd A or data file A) should be aware of the {targets} package which will help you keep track of files that need to be re-rendered due to changes in dependencies.
+The admins for NMFS Open Science are 
 
-## GitHub Set-up
+* [Eli Holmes](https://github.com/eeholmes)
+* [Kathryn Doering](https://github.com/k-doering-NOAA)
+* [Josh London](https://github.com/jmlondon)
 
-* Click the green "Use This Template" button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn't work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch).
-<img width="637" alt="image" src="https://user-images.githubusercontent.com/2545978/197051535-c43c62de-17e8-40bf-a536-3eea8db250c4.png">
+# Code of Conduct
 
-* Turn on GitHub Pages under Settings > Pages . You will set pages to be made from the gh-pages branch and root directory.
-<img width="540" alt="image" src="https://user-images.githubusercontent.com/2545978/196808262-3d2262be-b9b5-4897-bba5-fc2f056dd335.png">
+See the NMFS Open Sci Code of Conduct [here](https://github.com/nmfs-opensci/.github/blob/main/.github/CODE_OF_CONDUCT.md)
 
-* Allow GitHub Actions under Settings > Actions > General
-<img width="719" alt="image" src="https://user-images.githubusercontent.com/2545978/196808404-0c075fcf-db03-4516-88dd-3143b9fca475.png">
+# Contributing
 
-* Allow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings > Actions > General, and make sure "Read and Write" is selected.
-<img width="658" alt="image" src="https://user-images.githubusercontent.com/2545978/214977476-d25721b9-a5a7-4128-adfc-ff76090b809a.png">
+## Ways to contribute
 
-* Edit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the  Settings > Pages page to find the url to the Quarto website
+For public repositories, anyone can contribute issues and discussions (if enabled). Public repositories can also be forked and a pull-request submitted.
 
-## Customize
+Only NOAA staff (with current NOAA email) can be an owner of a repository on nmfs-opensci or be a contributor with direct push permissions. Non-NOAA GitHub users can be added as contributors to public and private repositories, but with review turned on (i.e. no direct push access).
 
-* Edit the qmd or md files in the `content` folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).
-* Add the files to `_quarto.yml`
+## NOAA users
 
-<hr>
+NOAA staff who wish to contribute to nmfs-opensci
 
-### Disclaimer
+* need to have 2FA turned on
+* should review the NMFS GitHub Checklist which outlines the types of material that are not allowed on GitHub
 
-This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project content is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
+Then contact the nmfs-opensci admins to discuss the repository you would like to create and manage on nmfs-opensci.
 
-### License
+## Disclaimers and licenses
 
-This content was created by U.S. Government employees as part of their official duties. This content is not subject to copyright in the United States (17 U.S.C. §105) and is in the public domain within the United States of America. Additionally, copyright is waived worldwide through the CC0 1.0 Universal public domain dedication.
+See the [template repo](https://github.com/nmfs-opensci/NOAA-blank) for the standard disclaimers to include on repositories. See the [NMFS GitHub Guidelines](https://nmfs-opensci.github.io/GitHub-Guide/#github-repository-components) section on Readme, disclaimers and licenses. All repositories created on nmfs-opensci will also have the Code of Conduct added to the repository; this happens automatically.
+
+## NOAA branding
+
+The nmfs-opensci GitHub organization is not intended for official NOAA communications and NOAA logos should not generally be used on repositories. 
+
+
+# Maintenance and Archiving
+
+## GitHub Pages
+
+You will need to turn on GitHub Pages if desired using Settings > Pages.  See the [NMFS R UG repo](https://github.com/nmfs-opensci/NMFS-R-UG) of a Distill website with
+a GitHub Action that builds the page automatically. See the [Resource Book](https://github.com/nmfs-opensci/ResourceBook) as an example of a Quarto website with a GitHub Action to build the page.
+
+## Issues and Discussion
+
+Repository owners are welcome to use these features. However if you do not need them, you might want to turn them off. The nmfs-admins will not be monitoring issues or discussions on repositories.
+
+## Back-ups
+
+The nmfs-opensci admins do not provide back-ups of content and cannot guarantee the content on the GitHub organization will persist.
+Repository owners should back-up content outside of the nmfs-opensci GitHub organization.
+
+## Archiving
+
+The nmfs-opensci admins reserve the right to archive repository content that is no longer in use or that is abandoned. The admins may also re-organize content that was created for teaching, talks, or workshops.
+
+
+
 
 
