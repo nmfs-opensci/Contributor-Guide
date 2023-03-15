@@ -49,11 +49,46 @@
     "text": "Archiving\nThe nmfs-opensci admins reserve the right to archive repository content that is no longer in use or that is abandoned. The admins may also re-organize content that was created for teaching, talks, or workshops."
   },
   {
+    "objectID": "content/elements.html",
+    "href": "content/elements.html",
+    "title": "Repo elements",
+    "section": "",
+    "text": "Repositories on nmfs-opensci should have the following elements."
+  },
+  {
+    "objectID": "content/elements.html#disclaimers-and-licenses",
+    "href": "content/elements.html#disclaimers-and-licenses",
+    "title": "Repo elements",
+    "section": "Disclaimers and licenses",
+    "text": "Disclaimers and licenses\nSee the template repo for the standard disclaimers to include on repositories. See the NMFS GitHub Guidelines section on Readme, disclaimers and licenses."
+  },
+  {
+    "objectID": "content/elements.html#code-of-conduct",
+    "href": "content/elements.html#code-of-conduct",
+    "title": "Repo elements",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct\nAll repositories created on nmfs-opensci will also have the NMFS Open Science Code of Conduct added to the repository; this happens automatically."
+  },
+  {
+    "objectID": "content/elements.html#noaa-branding",
+    "href": "content/elements.html#noaa-branding",
+    "title": "Repo elements",
+    "section": "NOAA branding",
+    "text": "NOAA branding\nThe nmfs-opensci GitHub organization is not intended for official NOAA communications and NOAA logos should not generally be used on repositories."
+  },
+  {
     "objectID": "content/contributing.html",
     "href": "content/contributing.html",
     "title": "Contributing",
     "section": "",
-    "text": "For public repositories, anyone can contribute issues and discussions (if enabled). Public repositories can also be forked and a pull-request submitted.\nOnly NOAA staff (with current NOAA email) can be an owner of a repository on nmfs-opensci or be a contributor with direct push permissions. Non-NOAA GitHub users can be added as contributors to public and private repositories, but with review turned on (i.e. no direct push access)."
+    "text": "admins (owners) can control all aspects of the organization and see (and control) all repository content (including private repos)\norg members: NOAA staff. Able to create public or private repositories.\noutside collaborators on org repos, NOAA staff. Can contribute via direct push to repositories\noutside collaborators on org repos, non-NOAA. Can contribute via pull requests to repositories\npublic (not org members or outside collaborators on repos). Can interact with public repositories (see below)."
+  },
+  {
+    "objectID": "content/contributing.html#ways-to-contribute",
+    "href": "content/contributing.html#ways-to-contribute",
+    "title": "Contributing",
+    "section": "Ways to contribute",
+    "text": "Ways to contribute\nFor public repositories, anyone can contribute issues and discussions (if enabled). Public repositories can also be forked and a pull-request submitted.\nOnly NOAA staff (with current NOAA email) can be an owner of a repository on nmfs-opensci or be a contributor with direct push permissions. Non-NOAA GitHub users can be added as contributors to public and private repositories, but with review turned on (i.e. no direct push access)."
   },
   {
     "objectID": "content/contributing.html#noaa-users",
@@ -61,19 +96,5 @@
     "title": "Contributing",
     "section": "NOAA users",
     "text": "NOAA users\nNOAA staff who wish to contribute to nmfs-opensci\n\nneed to have 2FA turned on\nshould review the NMFS GitHub Checklist which outlines the types of material that are not allowed on GitHub\n\nThen contact the nmfs-opensci admins to discuss the repository you would like to create and manage on nmfs-opensci."
-  },
-  {
-    "objectID": "content/contributing.html#disclaimers-and-licenses",
-    "href": "content/contributing.html#disclaimers-and-licenses",
-    "title": "Contributing",
-    "section": "Disclaimers and licenses",
-    "text": "Disclaimers and licenses\nSee the template repo for the standard disclaimers to include on repositories. See the NMFS GitHub Guidelines section on Readme, disclaimers and licenses. All repositories created on nmfs-opensci will also have the Code of Conduct added to the repository; this happens automatically."
-  },
-  {
-    "objectID": "content/contributing.html#noaa-branding",
-    "href": "content/contributing.html#noaa-branding",
-    "title": "Contributing",
-    "section": "NOAA branding",
-    "text": "NOAA branding\nThe nmfs-opensci GitHub organization is not intended for official NOAA communications and NOAA logos should not generally be used on repositories."
   }
 ]
