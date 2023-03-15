@@ -1,5 +1,103 @@
 [
   {
+    "objectID": "content/elements.html",
+    "href": "content/elements.html",
+    "title": "Repo elements",
+    "section": "",
+    "text": "Repositories on nmfs-opensci should have the following elements."
+  },
+  {
+    "objectID": "content/elements.html#disclaimers-and-licenses",
+    "href": "content/elements.html#disclaimers-and-licenses",
+    "title": "Repo elements",
+    "section": "Disclaimers and licenses",
+    "text": "Disclaimers and licenses\nSee the template repo for the standard disclaimers to include on repositories. See the NMFS GitHub Guidelines section on Readme, disclaimers and licenses."
+  },
+  {
+    "objectID": "content/elements.html#code-of-conduct",
+    "href": "content/elements.html#code-of-conduct",
+    "title": "Repo elements",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct\nAll repositories created on nmfs-opensci will also have the NMFS Open Science Code of Conduct added to the repository; this happens automatically."
+  },
+  {
+    "objectID": "content/elements.html#noaa-branding",
+    "href": "content/elements.html#noaa-branding",
+    "title": "Repo elements",
+    "section": "NOAA branding",
+    "text": "NOAA branding\nThe nmfs-opensci GitHub organization is not intended for official NOAA communications and NOAA logos should not generally be used on repositories."
+  },
+  {
+    "objectID": "content/maintain.html",
+    "href": "content/maintain.html",
+    "title": "Maintenance and Archiving",
+    "section": "",
+    "text": "You will need to turn on GitHub Pages if desired using Settings > Pages. See the NMFS R UG repo of a Distill website with a GitHub Action that builds the page automatically. See the Resource Book as an example of a Quarto website with a GitHub Action to build the page."
+  },
+  {
+    "objectID": "content/maintain.html#issues-and-discussion",
+    "href": "content/maintain.html#issues-and-discussion",
+    "title": "Maintenance and Archiving",
+    "section": "Issues and Discussion",
+    "text": "Issues and Discussion\nRepository owners are welcome to use these features. However if you do not need them, you might want to turn them off. The nmfs-admins will not be monitoring issues or discussions on repositories."
+  },
+  {
+    "objectID": "content/maintain.html#back-ups",
+    "href": "content/maintain.html#back-ups",
+    "title": "Maintenance and Archiving",
+    "section": "Back-ups",
+    "text": "Back-ups\nThe nmfs-opensci admins do not provide back-ups of content and cannot guarantee the content on the GitHub organization will persist. Repository owners should back-up content outside of the nmfs-opensci GitHub organization."
+  },
+  {
+    "objectID": "content/maintain.html#archiving",
+    "href": "content/maintain.html#archiving",
+    "title": "Maintenance and Archiving",
+    "section": "Archiving",
+    "text": "Archiving\nThe nmfs-opensci admins reserve the right to archive repository content that is no longer in use or that is abandoned. The admins may also re-organize content that was created for teaching, talks, or workshops."
+  },
+  {
+    "objectID": "content/contributing.html",
+    "href": "content/contributing.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "admins (owners) can control all aspects of the organization and see (and control) all repository content (including private repos)\norg members: NOAA staff. Able to create public or private repositories.\noutside collaborators on org repos, NOAA staff. Can contribute via direct push to repositories\noutside collaborators on org repos, non-NOAA. Can contribute via pull requests to repositories\npublic (not org members or outside collaborators on repos). Can interact with public repositories (see below)."
+  },
+  {
+    "objectID": "content/contributing.html#ways-to-contribute",
+    "href": "content/contributing.html#ways-to-contribute",
+    "title": "Contributing",
+    "section": "Ways to contribute",
+    "text": "Ways to contribute\nFor public repositories, anyone can contribute issues and discussions (if enabled). Public repositories can also be forked and a pull-request submitted.\nOnly NOAA staff (with current NOAA email) can be an owner of a repository on nmfs-opensci or be a contributor with direct push permissions. Non-NOAA GitHub users can be added as contributors to public and private repositories, but with review turned on (i.e. no direct push access)."
+  },
+  {
+    "objectID": "content/contributing.html#noaa-users",
+    "href": "content/contributing.html#noaa-users",
+    "title": "Contributing",
+    "section": "NOAA users",
+    "text": "NOAA users\nNOAA staff who wish to contribute to nmfs-opensci\n\nneed to have 2FA turned on\nshould review the NMFS GitHub Checklist which outlines the types of material that are not allowed on GitHub\n\nThen contact the nmfs-opensci admins to discuss the repository you would like to create and manage on nmfs-opensci."
+  },
+  {
+    "objectID": "content/coc.html",
+    "href": "content/coc.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.\n\n\n\nExamples of behavior that contributes to creating a positive environment include:\n\nUsing welcoming and inclusive language\nBeing respectful of differing viewpoints and experiences\nGracefully accepting constructive criticism\nFocusing on what is best for the community\nShowing empathy towards other community members\n\nExamples of unacceptable behavior by participants include:\n\nThe use of sexualized language or imagery and unwelcome sexual attention or advances\nTrolling, insulting/derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or electronic address, without explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting\n\n\n\n\nProject maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.\nProject maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.\n\n\n\nThis Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.\n\n\n\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Further details of specific enforcement policies may be posted separately.\n\n\n\nThis Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://contributor-covenant.org/version/1/4"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NMFS Open Sci Contributor Guide",
+    "section": "",
+    "text": "The NMFS Open Science GitHub organization (nmfs-opensci) contains repositories and content related to supporting Open Science activities at NOAA Fisheries. The types of repositories it contains include"
+  },
+  {
+    "objectID": "index.html#contacts",
+    "href": "index.html#contacts",
+    "title": "NMFS Open Sci Contributor Guide",
+    "section": "Contacts",
+    "text": "Contacts\nThe admins for NMFS Open Science are\n\nEli Holmes\nKathryn Doering\nJosh London"
+  },
+  {
     "objectID": "CODE_OF_CONDUCT.html",
     "href": "CODE_OF_CONDUCT.html",
     "title": "Contributor Covenant Code of Conduct",
@@ -47,103 +145,5 @@
     "title": "Contributor Covenant Code of Conduct",
     "section": "Attribution",
     "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "NMFS Open Sci Contributor Guide",
-    "section": "",
-    "text": "The NMFS Open Science GitHub organization (nmfs-opensci) contains repositories and content related to supporting Open Science activities at NOAA Fisheries. The types of repositories it contains include"
-  },
-  {
-    "objectID": "index.html#contacts",
-    "href": "index.html#contacts",
-    "title": "NMFS Open Sci Contributor Guide",
-    "section": "Contacts",
-    "text": "Contacts\nThe admins for NMFS Open Science are\n\nEli Holmes\nKathryn Doering\nJosh London"
-  },
-  {
-    "objectID": "content/coc.html",
-    "href": "content/coc.html",
-    "title": "Code of Conduct",
-    "section": "",
-    "text": "In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.\n\n\n\nExamples of behavior that contributes to creating a positive environment include:\n\nUsing welcoming and inclusive language\nBeing respectful of differing viewpoints and experiences\nGracefully accepting constructive criticism\nFocusing on what is best for the community\nShowing empathy towards other community members\n\nExamples of unacceptable behavior by participants include:\n\nThe use of sexualized language or imagery and unwelcome sexual attention or advances\nTrolling, insulting/derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or electronic address, without explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting\n\n\n\n\nProject maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.\nProject maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.\n\n\n\nThis Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.\n\n\n\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Further details of specific enforcement policies may be posted separately.\n\n\n\nThis Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://contributor-covenant.org/version/1/4"
-  },
-  {
-    "objectID": "content/maintain.html",
-    "href": "content/maintain.html",
-    "title": "Maintenance and Archiving",
-    "section": "",
-    "text": "You will need to turn on GitHub Pages if desired using Settings > Pages. See the NMFS R UG repo of a Distill website with a GitHub Action that builds the page automatically. See the Resource Book as an example of a Quarto website with a GitHub Action to build the page."
-  },
-  {
-    "objectID": "content/maintain.html#issues-and-discussion",
-    "href": "content/maintain.html#issues-and-discussion",
-    "title": "Maintenance and Archiving",
-    "section": "Issues and Discussion",
-    "text": "Issues and Discussion\nRepository owners are welcome to use these features. However if you do not need them, you might want to turn them off. The nmfs-admins will not be monitoring issues or discussions on repositories."
-  },
-  {
-    "objectID": "content/maintain.html#back-ups",
-    "href": "content/maintain.html#back-ups",
-    "title": "Maintenance and Archiving",
-    "section": "Back-ups",
-    "text": "Back-ups\nThe nmfs-opensci admins do not provide back-ups of content and cannot guarantee the content on the GitHub organization will persist. Repository owners should back-up content outside of the nmfs-opensci GitHub organization."
-  },
-  {
-    "objectID": "content/maintain.html#archiving",
-    "href": "content/maintain.html#archiving",
-    "title": "Maintenance and Archiving",
-    "section": "Archiving",
-    "text": "Archiving\nThe nmfs-opensci admins reserve the right to archive repository content that is no longer in use or that is abandoned. The admins may also re-organize content that was created for teaching, talks, or workshops."
-  },
-  {
-    "objectID": "content/elements.html",
-    "href": "content/elements.html",
-    "title": "Repo elements",
-    "section": "",
-    "text": "Repositories on nmfs-opensci should have the following elements."
-  },
-  {
-    "objectID": "content/elements.html#disclaimers-and-licenses",
-    "href": "content/elements.html#disclaimers-and-licenses",
-    "title": "Repo elements",
-    "section": "Disclaimers and licenses",
-    "text": "Disclaimers and licenses\nSee the template repo for the standard disclaimers to include on repositories. See the NMFS GitHub Guidelines section on Readme, disclaimers and licenses."
-  },
-  {
-    "objectID": "content/elements.html#code-of-conduct",
-    "href": "content/elements.html#code-of-conduct",
-    "title": "Repo elements",
-    "section": "Code of Conduct",
-    "text": "Code of Conduct\nAll repositories created on nmfs-opensci will also have the NMFS Open Science Code of Conduct added to the repository; this happens automatically."
-  },
-  {
-    "objectID": "content/elements.html#noaa-branding",
-    "href": "content/elements.html#noaa-branding",
-    "title": "Repo elements",
-    "section": "NOAA branding",
-    "text": "NOAA branding\nThe nmfs-opensci GitHub organization is not intended for official NOAA communications and NOAA logos should not generally be used on repositories."
-  },
-  {
-    "objectID": "content/contributing.html",
-    "href": "content/contributing.html",
-    "title": "Contributing",
-    "section": "",
-    "text": "admins (owners) can control all aspects of the organization and see (and control) all repository content (including private repos)\norg members: NOAA staff. Able to create public or private repositories.\noutside collaborators on org repos, NOAA staff. Can contribute via direct push to repositories\noutside collaborators on org repos, non-NOAA. Can contribute via pull requests to repositories\npublic (not org members or outside collaborators on repos). Can interact with public repositories (see below)."
-  },
-  {
-    "objectID": "content/contributing.html#ways-to-contribute",
-    "href": "content/contributing.html#ways-to-contribute",
-    "title": "Contributing",
-    "section": "Ways to contribute",
-    "text": "Ways to contribute\nFor public repositories, anyone can contribute issues and discussions (if enabled). Public repositories can also be forked and a pull-request submitted.\nOnly NOAA staff (with current NOAA email) can be an owner of a repository on nmfs-opensci or be a contributor with direct push permissions. Non-NOAA GitHub users can be added as contributors to public and private repositories, but with review turned on (i.e. no direct push access)."
-  },
-  {
-    "objectID": "content/contributing.html#noaa-users",
-    "href": "content/contributing.html#noaa-users",
-    "title": "Contributing",
-    "section": "NOAA users",
-    "text": "NOAA users\nNOAA staff who wish to contribute to nmfs-opensci\n\nneed to have 2FA turned on\nshould review the NMFS GitHub Checklist which outlines the types of material that are not allowed on GitHub\n\nThen contact the nmfs-opensci admins to discuss the repository you would like to create and manage on nmfs-opensci."
   }
 ]
