@@ -1,0 +1,17 @@
+---
+title: "Repo elements"
+---
+
+Repositories on nmfs-opensci should have the following elements.
+
+## Disclaimers and licenses
+
+See the [template repo](https://github.com/nmfs-opensci/NOAA-blank) for the standard disclaimers to include on repositories. See the [NMFS GitHub Guidelines](https://nmfs-opensci.github.io/GitHub-Guide/#github-repository-components) section on Readme, disclaimers and licenses. 
+
+## Code of Conduct
+
+All repositories created on nmfs-opensci will also have the NMFS Open Science Code of Conduct added to the repository; this happens automatically.
+
+## NOAA branding
+
+The nmfs-opensci GitHub organization is not intended for official NOAA communications and NOAA logos should not generally be used on repositories. 

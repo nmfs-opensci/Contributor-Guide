@@ -37,6 +37,8 @@ website:
         text: Code of Conduct
       - href: content/contributing.qmd
         text: Contributing
+      - href: content/elements.qmd
+        text: Repository elements
       - href: content/maintain.qmd
         text: Maintenance
       - href: content/rmarkdown.Rmd
