@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "CODE_OF_CONDUCT.html",
-    "href": "CODE_OF_CONDUCT.html",
-    "title": "NMFS Open Sci Contributor Guide",
-    "section": "",
-    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\n\n\n\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting\n\n\n\n\nCommunity leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.\n\n\n\nThis Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.\n\n\n\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at . All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident.\n\n\n\nCommunity leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community.\n\n\n\n\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "NMFS Open Sci Contributor Guide",
@@ -18,11 +11,102 @@
     "href": "index.html#contacts",
     "title": "NMFS Open Sci Contributor Guide",
     "section": "Contacts",
-    "text": "Contacts\nThe admins for NMFS Open Science are\n\nEli Holmes\nKathryn Doering\nJosh London"
+    "text": "Contacts\nThe admins for NMFS Open Science are\n\nEli Holmes\nKathryn Doering\nJosh London\nCatherine Stawitz"
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html",
+    "href": "CODE_OF_CONDUCT.html",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\n\n\n\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting\n\n\n\n\nCommunity leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.\n\n\n\nThis Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.\n\n\n\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at . All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident.\n\n\n\nCommunity leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community.\n\n\n\n\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#our-pledge",
+    "href": "CODE_OF_CONDUCT.html#our-pledge",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#our-standards",
+    "href": "CODE_OF_CONDUCT.html#our-standards",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "Examples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#enforcement-responsibilities",
+    "href": "CODE_OF_CONDUCT.html#enforcement-responsibilities",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#scope",
+    "href": "CODE_OF_CONDUCT.html#scope",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#enforcement",
+    "href": "CODE_OF_CONDUCT.html#enforcement",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at . All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#enforcement-guidelines",
+    "href": "CODE_OF_CONDUCT.html#enforcement-guidelines",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#attribution",
+    "href": "CODE_OF_CONDUCT.html#attribution",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
+  },
+  {
+    "objectID": "content/elements.html",
+    "href": "content/elements.html",
+    "title": "Repo elements",
+    "section": "",
+    "text": "Repositories on nmfs-opensci should have the following elements."
+  },
+  {
+    "objectID": "content/elements.html#disclaimers-and-licenses",
+    "href": "content/elements.html#disclaimers-and-licenses",
+    "title": "Repo elements",
+    "section": "Disclaimers and licenses",
+    "text": "Disclaimers and licenses\nSee the template repo for the standard disclaimers to include on repositories. See the NMFS GitHub Guidelines section on Readme, disclaimers and licenses."
+  },
+  {
+    "objectID": "content/elements.html#code-of-conduct",
+    "href": "content/elements.html#code-of-conduct",
+    "title": "Repo elements",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct\nAll repositories created on nmfs-opensci will also have the NMFS Open Science Code of Conduct added to the repository; this happens automatically."
+  },
+  {
+    "objectID": "content/elements.html#noaa-branding",
+    "href": "content/elements.html#noaa-branding",
+    "title": "Repo elements",
+    "section": "NOAA branding",
+    "text": "NOAA branding\nThe nmfs-opensci GitHub organization is not intended for official NOAA communications and NOAA logos should not generally be used on repositories."
   },
   {
     "objectID": "content/coc.html",
     "href": "content/coc.html",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
+  },
+  {
+    "objectID": "content/coc.html#our-pledge",
+    "href": "content/coc.html#our-pledge",
     "title": "Contributor Covenant Code of Conduct",
     "section": "",
     "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
@@ -70,11 +154,46 @@
     "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
   },
   {
+    "objectID": "content/contributing.html",
+    "href": "content/contributing.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "admins (owners) can control all aspects of the organization and see (and control) all repository content (including private repos)\norg members: NOAA staff. Able to create public or private repositories.\noutside collaborators on org repos, NOAA staff. Can contribute via direct push to repositories\noutside collaborators on org repos, non-NOAA. Can contribute via pull requests to repositories\npublic (not org members or outside collaborators on repos). Can interact with public repositories (see below)."
+  },
+  {
+    "objectID": "content/contributing.html#contributor-types",
+    "href": "content/contributing.html#contributor-types",
+    "title": "Contributing",
+    "section": "",
+    "text": "admins (owners) can control all aspects of the organization and see (and control) all repository content (including private repos)\norg members: NOAA staff. Able to create public or private repositories.\noutside collaborators on org repos, NOAA staff. Can contribute via direct push to repositories\noutside collaborators on org repos, non-NOAA. Can contribute via pull requests to repositories\npublic (not org members or outside collaborators on repos). Can interact with public repositories (see below)."
+  },
+  {
+    "objectID": "content/contributing.html#ways-to-contribute",
+    "href": "content/contributing.html#ways-to-contribute",
+    "title": "Contributing",
+    "section": "Ways to contribute",
+    "text": "Ways to contribute\nFor public repositories, anyone can contribute issues and discussions (if enabled). Public repositories can also be forked and a pull-request submitted.\nOnly NOAA staff (with current NOAA email) can be an owner of a repository on nmfs-opensci or be a contributor with direct push permissions. Non-NOAA GitHub users can be added as contributors to public and private repositories, but with review turned on (i.e. no direct push access)."
+  },
+  {
+    "objectID": "content/contributing.html#noaa-users",
+    "href": "content/contributing.html#noaa-users",
+    "title": "Contributing",
+    "section": "NOAA users",
+    "text": "NOAA users\nNOAA staff who wish to contribute to nmfs-opensci\n\nneed to have 2FA turned on\nshould review the NMFS GitHub Checklist which outlines the types of material that are not allowed on GitHub\n\nThen contact the nmfs-opensci admins to discuss the repository you would like to create and manage on nmfs-opensci."
+  },
+  {
     "objectID": "content/maintain.html",
     "href": "content/maintain.html",
     "title": "Maintenance and Archiving",
     "section": "",
-    "text": "You will need to turn on GitHub Pages if desired using Settings > Pages. See the NMFS R UG repo of a Distill website with a GitHub Action that builds the page automatically. See the Resource Book as an example of a Quarto website with a GitHub Action to build the page."
+    "text": "You will need to turn on GitHub Pages if desired using Settings &gt; Pages. See the NMFS R UG repo of a Distill website with a GitHub Action that builds the page automatically. See the Resource Book as an example of a Quarto website with a GitHub Action to build the page."
+  },
+  {
+    "objectID": "content/maintain.html#github-pages",
+    "href": "content/maintain.html#github-pages",
+    "title": "Maintenance and Archiving",
+    "section": "",
+    "text": "You will need to turn on GitHub Pages if desired using Settings &gt; Pages. See the NMFS R UG repo of a Distill website with a GitHub Action that builds the page automatically. See the Resource Book as an example of a Quarto website with a GitHub Action to build the page."
   },
   {
     "objectID": "content/maintain.html#issues-and-discussion",
@@ -96,54 +215,5 @@
     "title": "Maintenance and Archiving",
     "section": "Archiving",
     "text": "Archiving\nThe nmfs-opensci admins reserve the right to archive repository content that is no longer in use or that is abandoned. The admins may also re-organize content that was created for teaching, talks, or workshops."
-  },
-  {
-    "objectID": "content/elements.html",
-    "href": "content/elements.html",
-    "title": "Repo elements",
-    "section": "",
-    "text": "Repositories on nmfs-opensci should have the following elements."
-  },
-  {
-    "objectID": "content/elements.html#disclaimers-and-licenses",
-    "href": "content/elements.html#disclaimers-and-licenses",
-    "title": "Repo elements",
-    "section": "Disclaimers and licenses",
-    "text": "Disclaimers and licenses\nSee the template repo for the standard disclaimers to include on repositories. See the NMFS GitHub Guidelines section on Readme, disclaimers and licenses."
-  },
-  {
-    "objectID": "content/elements.html#code-of-conduct",
-    "href": "content/elements.html#code-of-conduct",
-    "title": "Repo elements",
-    "section": "Code of Conduct",
-    "text": "Code of Conduct\nAll repositories created on nmfs-opensci will also have the NMFS Open Science Code of Conduct added to the repository; this happens automatically."
-  },
-  {
-    "objectID": "content/elements.html#noaa-branding",
-    "href": "content/elements.html#noaa-branding",
-    "title": "Repo elements",
-    "section": "NOAA branding",
-    "text": "NOAA branding\nThe nmfs-opensci GitHub organization is not intended for official NOAA communications and NOAA logos should not generally be used on repositories."
-  },
-  {
-    "objectID": "content/contributing.html",
-    "href": "content/contributing.html",
-    "title": "Contributing",
-    "section": "",
-    "text": "admins (owners) can control all aspects of the organization and see (and control) all repository content (including private repos)\norg members: NOAA staff. Able to create public or private repositories.\noutside collaborators on org repos, NOAA staff. Can contribute via direct push to repositories\noutside collaborators on org repos, non-NOAA. Can contribute via pull requests to repositories\npublic (not org members or outside collaborators on repos). Can interact with public repositories (see below)."
-  },
-  {
-    "objectID": "content/contributing.html#ways-to-contribute",
-    "href": "content/contributing.html#ways-to-contribute",
-    "title": "Contributing",
-    "section": "Ways to contribute",
-    "text": "Ways to contribute\nFor public repositories, anyone can contribute issues and discussions (if enabled). Public repositories can also be forked and a pull-request submitted.\nOnly NOAA staff (with current NOAA email) can be an owner of a repository on nmfs-opensci or be a contributor with direct push permissions. Non-NOAA GitHub users can be added as contributors to public and private repositories, but with review turned on (i.e. no direct push access)."
-  },
-  {
-    "objectID": "content/contributing.html#noaa-users",
-    "href": "content/contributing.html#noaa-users",
-    "title": "Contributing",
-    "section": "NOAA users",
-    "text": "NOAA users\nNOAA staff who wish to contribute to nmfs-opensci\n\nneed to have 2FA turned on\nshould review the NMFS GitHub Checklist which outlines the types of material that are not allowed on GitHub\n\nThen contact the nmfs-opensci admins to discuss the repository you would like to create and manage on nmfs-opensci."
   }
 ]
