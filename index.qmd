@@ -7,9 +7,9 @@ page-layout: full
 The NMFS Open Science GitHub organization (nmfs-opensci) contains repositories and content related to supporting Open Science activities at NOAA Fisheries. The types of repositories it contains include
 
 * Repositories for Open Science community groups such as user groups. An example is the NMFS R User Group repository and homepage.
-* Repositories for governance groups for Open Science and collaborations platforms.
+* Repositories for governance groups for Open Science and collaboration platforms.
 * Repositories for Open Science or training webinar series
-* Template repositories that NOAA Fisheries GitHub users and organizations. For example: NMFS specific packages, Quarto websites or books, blank repositories with disclaimers and licenses.
+* Template repositories that NOAA Fisheries GitHub users and organizations. For example: NMFS-specific packages, Quarto websites or books, blank repositories with disclaimers and licenses.
 * Repositories related to NMFS Open Science talks and workshops
 
 
@@ -20,4 +20,4 @@ The admins for NMFS Open Science are
 * [Eli Holmes](https://github.com/eeholmes)
 * [Kathryn Doering](https://github.com/k-doering-NOAA)
 * [Josh London](https://github.com/jmlondon)
-* [Catherine Stawitz](https://github.com/ChristineStawitz-NOAA)
+* [Christine Stawitz](https://github.com/ChristineStawitz-NOAA)
