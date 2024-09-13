@@ -15,6 +15,7 @@ The admins for NMFS Open Science are
 * [Eli Holmes](https://github.com/eeholmes)
 * [Kathryn Doering](https://github.com/k-doering-NOAA)
 * [Josh London](https://github.com/jmlondon)
+* [Jonathan Peake](https://github.com/jonpeake)
 
 # Code of Conduct
 
