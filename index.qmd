@@ -21,3 +21,4 @@ The admins for NMFS Open Science are
 * [Kathryn Doering](https://github.com/k-doering-NOAA)
 * [Josh London](https://github.com/jmlondon)
 * [Catherine Stawitz](https://github.com/ChristineStawitz-NOAA)
+* [Jonathan Peake](https://github.com/jonpeake)
