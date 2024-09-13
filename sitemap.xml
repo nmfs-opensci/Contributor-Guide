@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nmfs-opensci.github.io/Contributor-Guide/index.html</loc>
-    <lastmod>2023-06-13T18:51:41.856Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/Contributor-Guide/CODE_OF_CONDUCT.html</loc>
-    <lastmod>2023-06-13T18:51:44.176Z</lastmod>
-  </url>
-  <url>
     <loc>https://nmfs-opensci.github.io/Contributor-Guide/content/elements.html</loc>
-    <lastmod>2023-06-13T18:51:44.588Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/Contributor-Guide/content/coc.html</loc>
-    <lastmod>2023-06-13T18:51:45.136Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/Contributor-Guide/content/contributing.html</loc>
-    <lastmod>2023-06-13T18:51:45.580Z</lastmod>
+    <lastmod>2024-09-13T22:25:25.346Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/Contributor-Guide/content/maintain.html</loc>
-    <lastmod>2023-06-13T18:51:45.992Z</lastmod>
+    <lastmod>2024-09-13T22:25:25.346Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/Contributor-Guide/index.html</loc>
+    <lastmod>2024-09-13T22:25:25.346Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/Contributor-Guide/CODE_OF_CONDUCT.html</loc>
+    <lastmod>2024-09-13T22:25:25.346Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/Contributor-Guide/content/contributing.html</loc>
+    <lastmod>2024-09-13T22:25:25.346Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/Contributor-Guide/content/coc.html</loc>
+    <lastmod>2024-09-13T22:25:25.346Z</lastmod>
   </url>
 </urlset>
